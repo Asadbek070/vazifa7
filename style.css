@@ -1,0 +1,15 @@
+.box{
+    background-color: greenyellow;
+    height: 400px;
+    width: 500px;
+    border-radius: 30px;
+    border: 2px solid blue;
+    margin: 100px 500px;
+    box-shadow: 15px 25px 15px grey;
+}
+.box:hover{
+    background-color: aqua;
+    border: 2px solid blue;
+    border-radius: 0px;
+    box-shadow: none;
+}
